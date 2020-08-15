@@ -1,1 +1,2 @@
-# AMI-AWS
+# ami
+Creating a AMI 
